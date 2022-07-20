@@ -1,0 +1,6 @@
+ul , ol {
+    list-style-position: inside;
+  }
+  body { 
+    background-color: #f8fdff; 
+  }
